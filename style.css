@@ -1,0 +1,12 @@
+body{background-color: black;}
+h1{font-size: larger;
+color: rgb(255, 255, 255); 
+text-align: center;}
+p{font-size: medium;
+color: aliceblue;
+text-align: justify;
+}
+img{width: 300px !important;
+    height: 300px !important;
+margin: 5%;
+}
