@@ -20,5 +20,26 @@ li{
     color: aliceblue;
 }
 ul{
-    border: 5px solid rgb(112, 104, 104);
+    border: 5px solid rgb(59, 2, 2);
+}
+.cabecalho{
+    background-color: #470202;
+}
+.logobarbearia{
+    width: 150px !important;
+    height: 150px !important;
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.lista_cabecalho{
+    display: flex;
+    margin-top: 150px;
+}
+.item_lista_cabecalho{
+    color: rgb(253, 252, 252);
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 30px;
+    padding: 20px;
 }
